@@ -1,0 +1,17 @@
+# Secret keys
+.env
+
+# Environments & Libraries
+venv/
+env/
+
+# Auto-generated Python files
+**/__pycache__/
+*.pyc
+
+# Local log files
+*.log
+app.log
+
+# Temporary plots
+static/plots/
